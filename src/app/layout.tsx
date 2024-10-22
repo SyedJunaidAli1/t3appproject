@@ -12,6 +12,7 @@ export const metadata: Metadata = {
 import React from 'react'
 import TopNav from "./_components/TopNav";
 
+
 export default function RootLayout({
   children,
 }: Readonly<{ children: React.ReactNode }>) {
