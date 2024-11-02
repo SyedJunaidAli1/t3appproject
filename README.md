@@ -15,6 +15,7 @@
 - [x] Routing/image page (parallel route)
 - [x] Update Upload button to match the design
 - [x] ShadUIify (specifically toasts)
+- [] Analytics (posthog)
 - [] Delete button (w/server Actions)
 - [] Analytics (posthog)
 - [] Ratelimiting (upstash)
